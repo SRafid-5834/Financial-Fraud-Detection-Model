@@ -8,13 +8,15 @@ A simple financial fraud detection model, that can be used to predict/detect fra
 `https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset/data`
 
 The data was directly downloaded and used to create this model. It can also be used simply via the Kaggle API.
+
 I do not claim ownership of this dataset.
 
 ---
 
 ### Dependencies and libraries
 
-The only external library required was xgboost. Installed with a simple line of code `!pip install xgboost`
+The only external library required was xgboost. Installed with a simple line of code `!pip install xgboost`.
+
 Pandas, NumPy, Matplotlib, Seaborn, and scikit-learn are used.
 
 ---
